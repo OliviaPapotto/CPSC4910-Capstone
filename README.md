@@ -4,8 +4,11 @@
 ## Overview
 This repository holds the design work I created for my senior capstone project. For the project, Capgemini gave us a project focused on developing a Business-to-Business (B2B) E-Commerce marketplace website capable of bilateral communication with the Salesforce Customer Relationship Management (CRM) database. In addition to this, we are also tasked with showing order status for placed orders as well as a functioning UI. There will be a corresponding web application built using React.js that utilizes a Flask-based database management system (DBMS) to access the Salesforce database. The user interface will contain minimal design so as to focus on the bilateral communication between the Flask DBMS and Salesforce. Users will be able to view and order products available on the Salesforce database as well as see the status of orders they have submitted. We were specifically instructed to focus primarily on the retail side and not to focus on the supplier side of this interface.
 
+## The Project
+To access the project and see how to run it, please visit the following link, https://github.com/Clemson-Capstone/f20-capgemini-salesforce
+
 ## My Role
-My primary role in this group was designing and implementing the user interface. To begin, I started researching other B2B websites and taking note of their design patterns and user interfaces. Next I started preliminary mockups in Adobe XD, that would eventually be used as our final inspiration for the project.
+My primary role in this group was designing and implementing the user interface. To begin, I started researching other B2B websites and taking note of their design patterns and user interfaces. Next I started preliminary mockups in Adobe XD, that would eventually be used as our final inspiration for the project. The following sections consist of the initial mockups, secondary designs, and final screenshots from the implementation of the website. Overall, this project taught me how to fully build a website from the beginning stages to deployment by using industry products.
 
 ### Initial Mockups
 ![image](https://user-images.githubusercontent.com/45491650/151267979-6774b539-7a6f-437b-96a7-eac2aef62dab.png)

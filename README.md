@@ -31,6 +31,3 @@ My primary role in this group was designing and implementing the user interface.
 ![image](https://user-images.githubusercontent.com/45491650/151270514-883c13bd-b1fa-460b-ae8a-da9926799fb1.png)
 ![image](https://user-images.githubusercontent.com/45491650/151270529-d0081076-f21d-4250-8efe-91e3d8cebe27.png)
 ![image](https://user-images.githubusercontent.com/45491650/151270561-b0a9d1fe-5230-4a5e-8850-0893df86e6f3.png)
-
-### Link
-https://github.com/Clemson-Capstone/f20-capgemini-salesforce

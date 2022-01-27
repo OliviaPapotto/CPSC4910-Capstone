@@ -7,7 +7,7 @@ This repository holds the design work I created for my senior capstone project. 
 ## My Role
 My primary role in this group was designing and implementing the user interface. To begin, I started researching other B2B websites and taking note of their design patterns and user interfaces. Next I started preliminary mockups in Adobe XD, that would eventually be used as our final inspiration for the project.
 
-###Initial Mockups
+### Initial Mockups
 ![image](https://user-images.githubusercontent.com/45491650/151267979-6774b539-7a6f-437b-96a7-eac2aef62dab.png)
 ![image](https://user-images.githubusercontent.com/45491650/151267985-aa0a39e4-2033-44da-8540-cd09eab0660c.png)
 ![image](https://user-images.githubusercontent.com/45491650/151267998-5d8a63f6-d93f-4d61-882d-f9db93d5fb0d.png)
@@ -15,13 +15,13 @@ My primary role in this group was designing and implementing the user interface.
 ![image](https://user-images.githubusercontent.com/45491650/151268563-cec1e3db-af29-4027-9da4-96a1bc866932.png)
 ![image](https://user-images.githubusercontent.com/45491650/151268567-e42a28b2-3fc1-4464-acd1-0f373145e099.png)
 
-###General Designs
+### General Designs
 ![image](https://user-images.githubusercontent.com/45491650/151269045-dae088ce-4040-493c-b439-599ad1ffe5e1.png)
 ![image](https://user-images.githubusercontent.com/45491650/151269592-cccf00ba-ed22-4fea-ac12-d5e0b80290d6.png)
 ![image](https://user-images.githubusercontent.com/45491650/151269602-62020b94-f68a-4233-a38e-f27318d98e78.png)
 ![image](https://user-images.githubusercontent.com/45491650/151269610-f61a7416-70d8-438b-90ba-bc1e99f7e612.png)
 
-###Final Screenshots
+### Final Screenshots
 ![image](https://user-images.githubusercontent.com/45491650/151270166-17dc233d-d3ed-4fbd-915a-3272443a8aaf.png)
 ![image](https://user-images.githubusercontent.com/45491650/151270472-9e1f2827-22fb-49e7-a9a8-7444beab07e2.png)
 ![image](https://user-images.githubusercontent.com/45491650/151270488-ff611111-dda8-4041-9573-fd4b53bcb269.png)
